@@ -1,6 +1,6 @@
 # TwitchMarblesDetector
 
-A bot playing [Marbles On Stream](http://pixelbypixelcanada.com/mos.html) with Twitch streamers. Written in C#.
+A bot playing [Marbles On Stream](http://pixelbypixelcanada.com/mos.html) with Twitch streamers. Written in C# (dotnet 5).
 
 How does it work?
 -----------------
